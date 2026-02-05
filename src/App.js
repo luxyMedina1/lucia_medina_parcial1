@@ -6,16 +6,28 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={porfile} className="App-logo" alt="logo" />
-        <p>
-          ETE ES MI PRIMER HOLA MUNDO EN REACT -MEDINA LUCIA
-        </p>
+        <h1>
+        
+        Evaluacion Parcial 1    
+        </h1>
+        <h1>
+          Alumna;Medina lucia
+        </h1>
         <a
           className="App-link"
-          href="https://www.utd.edu.mx"
+          href="https://www.linkedin.com/in/lucia-medina-454451351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
           target="_blank"
           rel="noopener noreferrer"
         >
-          visita el sitio web de la UTD
+          LINKED IN  MY PROFILE
+        </a>
+        <br></br>
+        <a
+          className="App-link"
+          href="https://practicas.medikt.com.mx/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >DOCUMENTACION PARCIAL 1 
         </a>
       </header>
     </div>
