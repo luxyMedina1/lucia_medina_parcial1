@@ -24,7 +24,7 @@ function App() {
         <br></br>
         <a
           className="App-link"
-          href="https://practicas.medikt.com.mx/"
+          href="https://github.com/luxyMedina1/lucia_medina_parcial1"
           target="_blank"
           rel="noopener noreferrer"
         >DOCUMENTACION PARCIAL 1 
