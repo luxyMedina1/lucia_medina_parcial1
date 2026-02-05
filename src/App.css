@@ -1,4 +1,4 @@
-/* Fondo general oscuro */
+
 .pantalla-oscura {
   background-color: #1a1e23;
   min-height: 100vh;
@@ -16,7 +16,7 @@
   align-items: center;
 }
 
-/* Foto tamaño mediano/pequeño como en la imagen */
+
 .foto-perfil-simple {
   width: 220px; 
   height: auto;
@@ -37,7 +37,7 @@
   margin-bottom: 20px;
 }
 
-/* Enlaces estilo simple */
+
 .enlaces-inferiores a, .boton-enlace {
   display: block;
   color: #4da6ff;
@@ -50,7 +50,7 @@
   padding: 0;
 }
 
-/* Estilos del Centro de Descargas */
+
 .centro-descargas-directo {
   width: 90%;
   max-width: 500px;

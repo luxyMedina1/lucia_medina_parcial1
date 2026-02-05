@@ -19,17 +19,17 @@ function App() {
             </a>
 
             {/* 2. ISO / IEEE */}
-            <a href="/ieee.pdf" download="ISO_Estándar_IEEE.pdf">
+            <a href="/ieee.pdf" download="lucia_medina_parcial1/public/ieee.pdf">
               <button className="btn btn-verde">ISO / ESTANDAR IEEE</button>
             </a>
 
             {/* 3. Requerimientos */}
-            <a href="/requerimientos.pdf" download="Requerimientos.pdf">
+            <a href="/requerimientos.pdf" download="lucia_medina_parcial1/public/requerimientos.pdf">
               <button className="btn btn-gris">REQUERIMIENTOS FUNCIONALES Y NO FUNCIONALES</button>
             </a>
 
             {/* 4. Python SHA-256 */}
-            <a href="/sha_256.pdf" download="Codigo_Python_SHA256.pdf">
+            <a href="/sha_256.pdf" download="lucia_medina_parcial1/public/sha_256.pdf">
               <button className="btn btn-gris">CÓDIGO PYTHON ALGORITMO SHA-256</button>
             </a>
 
