@@ -1,34 +1,37 @@
-import porfile from './porfile.jfif';
+import profile from './porfile.jfif';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={porfile} className="App-logo" alt="logo" />
-        <h1>
-        
-        Evaluacion Parcial 1    
-        </h1>
-        <h1>
-          Alumna;Medina lucia
-        </h1>
+
+        <img src={profile} className="App-logo" alt="Foto de perfil" />
+
+        <h1>Evaluación Parcial 1</h1>
+
+        <h2>Alumna: Medina Lucia</h2>
+
         <a
           className="App-link"
-          href="https://www.linkedin.com/in/lucia-medina-454451351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+          href="https://www.linkedin.com/in/lucia-medina-454451351"
           target="_blank"
           rel="noopener noreferrer"
         >
-          LINKED IN  MY PROFILE
+          LINKEDIN MY PROFILE
         </a>
-        <br></br>
+
+        <br />
+
         <a
           className="App-link"
-          href="https://github.com/luxyMedina1/lucia_medina_parcial1"
+          href="https://www.medikt.com.mx/practicas/documentacion.html"
           target="_blank"
           rel="noopener noreferrer"
-        >DOCUMENTACION PARCIAL 1 
+        >
+          DOCUMENTACIÓN PARCIAL 1
         </a>
+
       </header>
     </div>
   );
